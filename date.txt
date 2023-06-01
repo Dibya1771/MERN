@@ -29,10 +29,20 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Bypass -Force
 
 
 
-
+//------------------------------------  Github  -----------------------------------------
 PS D:\MERN> git config --global user.name "Dibya Ranjan Rath" 
 PS D:\MERN> git config --global user.email "dibyaranjanrath02@gmail.com" 
 
 click on 3 icon (on left side bar => i.e., source control bar then click initialliza repository)
 PS D:\MERN> git status (to check which file is changed)
-PS D:\MERN> git add --a   (to update  folder)
+PS D:\MERN> git add --a   (to update  folder) after update again check status
+PS D:\MERN> git status (to check which file is changed)
+
+PS D:\MERN> git commit -m "First Message"    (used to give message and final save)
+
+Then in left side bar (publish option come click--  redirect to browser then validate account then authenticate and come to vs code and check private or public )  => now it is uploaded in github
+
+now goto github click on profile then click => your repository=> then click which repository you want to live (Go inside that and )=> click on code and copy link
+Come to  vs code (click on 3 dot in left side then click-- remote-Add remote -- paste the link-- then give a branch name ( Origin ) )
+
+Now kin terminal write-->  git push origin master    (Message comes - Everything up-to-date) 
