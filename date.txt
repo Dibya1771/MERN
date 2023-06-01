@@ -45,4 +45,7 @@ Then in left side bar (publish option come click--  redirect to browser then val
 now goto github click on profile then click => your repository=> then click which repository you want to live (Go inside that and )=> click on code and copy link
 Come to  vs code (click on 3 dot in left side then click-- remote-Add remote -- paste the link-- then give a branch name ( Origin ) )
 
-Now kin terminal write-->  git push origin master    (Message comes - Everything up-to-date) 
+Now in terminal write-->  git push origin master    (Message comes - Everything up-to-date) 
+
+Then write-- PS D:\MERN> git status  (for check)
+if you want to modify again then again write ---> 

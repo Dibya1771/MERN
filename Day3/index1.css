@@ -5,8 +5,6 @@
 }
 body{
     background: linear-gradient(to top ,#000000,#130000,#230000);
-    /* background-color:#04060D; */
-
     height: 100vh;   /* if we not give any thing here then when we scroll the nav willl hidden after 100vh (super ....)*/
     background-attachment: fixed;
 }
