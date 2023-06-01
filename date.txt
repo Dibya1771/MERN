@@ -27,6 +27,9 @@ notes-
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted -Force
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Bypass -Force
 )
+
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 Day-4 (1 June 2023)
 
@@ -68,4 +71,12 @@ then write code... after that open new terminalm inside (Day 4) and save js file
 
 12)  Then write-- PS D:\MERN> git status  (for check) step-4
 13)  if you want to modify again then again write ---> write again step-5, 6 , 7 and 11 (but 2nd time insted of  (git push origin master) write  git push origin) only.
+
+
+// --------------------  to ignore some files -------------------------
+ npm install touch-cli -g
+  touch .gitignore 
+
+  now goto .gitignore file which was created then type ==>  /date.txt   (data.txt is the file name which i want to ignore) then save
+  now goto terminal and repeate step- 4, 5,7 and 13
 --------------------------------------------------------------------------------------------------------------------------------------------------
