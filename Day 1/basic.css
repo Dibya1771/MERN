@@ -1,0 +1,134 @@
+*{ 
+    padding: 0;
+}
+body{
+    background-color: aqua;
+}
+
+#first{
+    margin: 30px;
+    background-color: #1dff74;
+    height:45vh;
+    box-shadow: 2px 2px 5px #000;
+    border-radius: 10px;
+}
+.first_logo{
+    display: flex; 
+    justify-content: space-between;
+}
+.first_tittle{
+    display: flex;   
+    margin-left: 2.5%;
+    /*
+    flex-direction: row;  This is default (that is in one line)
+    flex-direction: column;  (this is for align in column)
+    flex-direction: column-reverse; (means reverse the column numbers)
+    flex-direction: row-reverse; (means it print the content from right side to left)*/
+    text-align: center;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 35%;
+    font-size: 20px;
+    /* justify-content: center; */
+    color: #0000ff;
+}
+.first_para{
+    font-size: 15px;
+    text-align:justify;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+pre{
+    font-size: 15px;
+    color: #000;
+    font-weight: 800;
+    background-color: #1db7ff;
+}
+/*------------------------------*/
+#second{
+    
+    margin: 30px;
+    display: flex;
+}
+.second_box{
+    padding: 10px;
+    font-size: 15px;
+    text-align: center;
+    width: 70%;
+    box-shadow: 2px 2px 5px #000;
+    border-radius: 10px;
+    background: #1db7ff;
+}
+.second_inp-text{
+    width: 45%;
+    border-radius: 10px;
+    border: none;
+    padding: 7px;
+    padding-left: 10px;
+    background: #abdaff;
+    box-shadow: 2px 2px 5px #000;
+}
+.btn{
+    margin-top: 2%;
+    width: 25%;
+    padding: 8px;
+    border-radius:10px ;
+    background: #3434ff;
+    color: #ffffff;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 2px 2px 5px #000;
+}
+
+#second_img{
+    margin-top: 16px;
+    margin-right: 8px;
+    height: 220px;
+    border-top-right-radius: 50px;
+    box-shadow: 2px 2px 5px #000;
+}
+.box label{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/*------------------------------*/
+.third_grid_box{
+    margin: 30px;
+    margin-left: 1%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    /* grid-template-rows: repeat(3,1fr); */
+    width: 90%;
+    height: 120px;
+    background-color: #9980fd;
+    font-weight: bold;
+    color: #0000ff;
+    border-radius: 10px;
+    border: 1px solid #cc00ff;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    box-shadow: 2px 2px 5px #000;
+}
+/*------------------------------*/
+.forth_list-item{
+    margin: 20px;
+    margin-left: 2%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    background: #c300ff;
+    box-shadow: 2px 2px 5px #000;
+    color: #000000;
+    width: 70%;
+}
+u{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.one_line{
+    display: flex;
+}

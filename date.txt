@@ -1,0 +1,38 @@
+Day-1 (29 March 2023)  - HTML basics (Html tags- p,pre,h1-h6,img,div,span,a,ul,ol,li), css(flex, grid, background property)
+---------------------------------------------------------------------------------------------------------------------------------------------------
+Day-2 (30 March 2023)
+---------------------------------------------------------------------------------------------------------------------------------------------------
+Day-3 ()
+
+notes-
+1=> First install "node" from google then open vs code goto main folder (in my case my folder is MERN) then open terminal write->   node -v  (it check wheather the node version is install or not)
+
+*Json is a object
+
+2=> first create data.json (declare your data here)
+
+3=> Then right click on your folder name in vs code then click on open in terminal 
+
+//creating server to run
+4=>Then write ->  npm init -y     => use to create package.json
+
+5=> Then again in terminal write=> npm i json-server  (Used to start debugger)
+6=> Then in terminal write ---   npm install -g json-server
+7=> Then in terminal write ---  json-server --watch data.json --port 8080
+
+8=> If not working then do this step then after that do step- 6 and 7 
+(Note --- for the first time goto windows powershell then Run As Administrator--> run two commands--
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted -Force
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Bypass -Force
+)
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+PS D:\MERN> git config --global user.name "Dibya Ranjan Rath" 
+PS D:\MERN> git config --global user.email "dibyaranjanrath02@gmail.com" 
+
+click on 3 icon (on left side bar => i.e., source control bar then click initialliza repository)
+PS D:\MERN> git status (to check which file is changed)
+PS D:\MERN> git add --a   (to update  folder)
