@@ -15,7 +15,7 @@ for margn and padding syntax-
 margin: top right bottom left;
 padding: top right bottom left;
 
---Positon property--
+-- Positon property--
 -- To affect html element use- relative
 -- To affect child, parrent and other element use absolute
 -- similarly sticky-(means that should be sticky in that position) , fixed (in both we have to declare top, left, right and bottom)

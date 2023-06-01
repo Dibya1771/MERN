@@ -1,9 +1,11 @@
-Day-1 (29 March 2023)  - HTML basics (Html tags- p,pre,h1-h6,img,div,span,a,ul,ol,li), css(flex, grid, background property)
----------------------------------------------------------------------------------------------------------------------------------------------------
-Day-2 (30 March 2023)
----------------------------------------------------------------------------------------------------------------------------------------------------
-Day-3 ()
+Day-1 (29 May 2023)  - HTML basics (Html tags- p,pre,h1-h6,img,div,span,a,ul,ol,li), css(flex, grid, background property), js(function, basic programm (i.e. even odd and prime))
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
+Day-2 (30 May 2023) - HTML (Table, navbar), css(margin, padding and Positon property), Js(getElementById, addEventListener,createElement,append,window.location.reload,inline js styling)
+---------------------------------------------------------------------------------------------------------------------------------------------------
+Day-3 (31 May 2023)  - js(key value pair data taking, loop, data.map(el) function, creating multiple divs inside a big div,), creating json file, download node, initializing node in the vs code, run server.
+
+-----------------------------------------------
 notes-
 1=> First install "node" from google then open vs code goto main folder (in my case my folder is MERN) then open terminal write->   node -v  (it check wheather the node version is install or not)
 
@@ -26,26 +28,44 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted -Force
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Bypass -Force
 )
 ---------------------------------------------------------------------------------------------------------------------------------------------------
+Day-4 (1 June 2023)
+
+In day-3 after step-7 make index1.js (writing code)=> inside that in fetch paste-- copy the resources from terminal and paste inside that
+
+then write code... after that open new terminalm inside (Day 4) and save js file (that is index1.js) => It calls data from data.json
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 //------------------------------------  Github  -----------------------------------------
-PS D:\MERN> git config --global user.name "Dibya Ranjan Rath" 
-PS D:\MERN> git config --global user.email "dibyaranjanrath02@gmail.com" 
+1)  PS D:\MERN> git config --global user.name "Dibya Ranjan Rath" 
+2)  PS D:\MERN> git config --global user.email "dibyaranjanrath02@gmail.com" 
 
-click on 3 icon (on left side bar => i.e., source control bar then click initialliza repository)
-PS D:\MERN> git status (to check which file is changed)
-PS D:\MERN> git add --a   (to update  folder) after update again check status
-PS D:\MERN> git status (to check which file is changed)
+3)  click on 3 icon (on left side bar => i.e., source control bar then click initialliza repository)
+4)  PS D:\MERN> git status (to check which file is changed)
+5)  PS D:\MERN> git add --a   (to update  folder) after update again check status
+6)  PS D:\MERN> git status (to check which file is changed)
 
-PS D:\MERN> git commit -m "First Message"    (used to give message and final save)
+7)  PS D:\MERN> git commit -m "First Message"    (used to give message and final save)
 
-Then in left side bar (publish option come click--  redirect to browser then validate account then authenticate and come to vs code and check private or public )  => now it is uploaded in github
+8)  Then in left side bar (publish option come click--  redirect to browser then validate account then authenticate and come to vs code and check private or public )  => now it is uploaded in github
 
-now goto github click on profile then click => your repository=> then click which repository you want to live (Go inside that and )=> click on code and copy link
-Come to  vs code (click on 3 dot in left side then click-- remote-Add remote -- paste the link-- then give a branch name ( Origin ) )
+9)  now goto github click on profile then click => your repository=> then click which repository you want to live (Go inside that and )=> click on code and copy link
+10)  Come to  vs code (click on 3 dot in left side then click-- remote-Add remote -- paste the link-- then give a branch name ( Origin ) )
 
-Now in terminal write-->  git push origin master    (Message comes - Everything up-to-date) 
+11)  Now in terminal write-->  git push origin master    (Message comes - Everything up-to-date) if give error write  git push origin master --force
 
-Then write-- PS D:\MERN> git status  (for check)
-if you want to modify again then again write ---> 
+12)  Then write-- PS D:\MERN> git status  (for check) step-4
+13)  if you want to modify again then again write ---> write again step-5, 6 , 7 and 11 (but 2nd time insted of  (git push origin master) write  git push origin) only.
+--------------------------------------------------------------------------------------------------------------------------------------------------

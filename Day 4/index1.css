@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: linear-gradient(to top ,#000000,#130000,#230000);
+    height: 100vh;   /* if we not give any thing here then when we scroll the nav willl hidden after 100vh (super ....)*/
+    background-attachment: fixed;
+}
+.navbar{
+    display: flex;
+    /* justify-content: space-between;  */
+    background-color: #120101;
+    box-shadow: 5px 5px 10px #1b0101;
+    position: sticky; 
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    z-index: 1;
+    height: 55px;
+    /* padding: 4.5px; */
+    /* background-color: transparent; */
+
+}
+.nav_text{
+    color: #fff;
+    padding: 20px;
+    padding-left: 4.5rem;
+    font-size: 18px;
+    cursor: pointer;
+    font-family:  Calibri;
+    font-weight: 400;
+}
+.nav_text:hover{
+    font-size: 20px;
+    font-weight: 400;
+    color: #f12c32;
+    text-shadow: 0px 0px 1px #ff8484;
+    transition: 0.25s;
+}
+#Logo{
+    margin-top: 1rem;
+    margin-left: 1rem;
+    /* color: #DB0913; */
+    /* font-size: 40px; */
+    /* font-weight: 600; */
+}
+.right{
+    margin-left: 92rem;
+    position: fixed;
+    margin-top: 1rem;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+#show_movies{
+    align-items: center;
+    justify-content: center;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 28px;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 30px;
+}
+
+#show_movies img{
+    width: 300px;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 1rem;
+    box-shadow: 1px 1px 4px #807d7d;
+}
+#show_movies h3{
+    margin-top: 10px;
+    font-size: 25px;
+    font-weight: 700;
+    color: #fff;
+}
+#show_movies p{
+    margin-top: 8px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #fff;
+ }
+ #show_movies button{
+    margin-top: 10px;
+    margin-bottom: 40px;
+    height: 40px;
+    background-color: #DB0913;
+    color: #ffe9e9;
+    width: 92%;
+    border-radius: 1rem;
+    border: none;
+    box-shadow: inset 4px 2px 5px #421717;
+    cursor: pointer;
+    transition: 0.4s;
+ }
+
+ #show_movies button:hover{
+    background-color: #ff2e39;
+    color: #ffffff;
+ }
+
+  .nav-bg {
+      background: rgb(44, 3, 3);
+      background-size: cover;
+      background-blend-mode: darken;
+    }
+
+    .text-footer {
+      text-align: center;
+      padding: 15px 0;
+      display: flex;
+      justify-content: center;
+      color: white;
+    }
