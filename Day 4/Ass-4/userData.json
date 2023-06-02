@@ -1,0 +1,42 @@
+{
+  "userDetails": [
+    {
+      "id": 1685640749702,
+      "name": "conjuring",
+      "mobile": "7847965001",
+      "email": "div@gmail.com",
+      "password": "1111111111111"
+    },
+    {
+      "id": 1685642716168,
+      "name": "Awe",
+      "mobile": "7847965001",
+      "email": "mrbiku4444@gmail.com",
+      "password": "1111"
+    },
+    {
+      "id": 1685652221918,
+      "name": "Biku",
+      "mobile": "7847965001",
+      "email": "mrbiku4444@gmail.com",
+      "password": "11111111"
+    }
+  ],
+  "rec": [
+   
+    {
+      "image": "https://geekrobocook.com/wp-content/uploads/2021/03/6.-Paneer-Tikka.jpg",
+      "foodName": "Paneer Tikka",
+      "recipe": "Step 1: Gather the ingredients.\nStep 2: Prepare the toppings.\nStep 3: Shape the patties.\nStep 4: Cook the patties.\nStep 5: Toast the buns.\nStep 6: Assemble the burger.\nStep 7: Serve and enjoy.",
+      "id": 3
+    },
+    {
+      "image": "https://e0.pxfuel.com/wallpapers/227/1006/desktop-wallpaper-burger-sandwich-food-fire.jpg",
+      "foodName": "Burger",
+      "recipe": "Step 1: Gather the ingredients.\nStep 2: Prepare the toppings.\nStep 3: Shape the patties.\nStep 4: Cook the patties.\nStep 5: Toast the buns.\nStep 6: Assemble the burger.\nStep 7: Serve and enjoy.",
+      "id": 4
+    }
+   
+   
+  ]
+}

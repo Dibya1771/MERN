@@ -79,4 +79,5 @@ then write code... after that open new terminalm inside (Day 4) and save js file
 
   now goto .gitignore file which was created then type ==>  /date.txt   (data.txt is the file name which i want to ignore) then save
   now goto terminal and repeate step- 4, 5,7 and 13
+  
 --------------------------------------------------------------------------------------------------------------------------------------------------

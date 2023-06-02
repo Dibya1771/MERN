@@ -1,44 +1,25 @@
 {
-    "mydata": [
-        {
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxYd3qWb7UlM_UBeis23ZV3SHzJpNy9-aBeScMnEzLHO1zc0wD",
-            "title": "WALL·E",
-            "rating": "8.4/10"
-        },
-        
-        {
-            "image": "https://lh3.googleusercontent.com/B4cnobWyvdonq4TQ-ijq0tVNnKWo3ZwhPpEOQu2llSxuXLKyhTtSg9gmPhFrZC6MaLV03rD5aFm8_Kl2WDdcbP7P8TwimH8ZucRY34IB=w500-rw",
-            "title": "Aquaman",
-            "rating": "6.8/10"
-        },
-        {
-            "image": "https://images-cdn.ubuy.co.in/639c88534d20d83575030186-the-batman-movie-poster-profile-blue.jpg",
-            "title": "The Batman",
-            "rating": "7.8/10"
-        },
-        
-        {
-            "image": "https://pbs.twimg.com/media/FvYLAURaEAIwqq0?format=jpg&name=medium",
-            "title": "Oppenheimer",
-            "rating": "9.1/10"
-        },
-        
-        
-        
-        {
-            "image": "https://i0.wp.com/media.tumblr.com/tumblr_m7gi3yFRJd1qjs7e9.png?zoom=2",
-            "title": "The Dark Knight Rises",
-            "rating": "8.4/10"
-        },
-        {
-            "image": "https://static1.moviewebimages.com/wordpress/wp-content/uploads/2022/12/mv5bmdk4mtdhyzetodk3os00zdbjlwfhntqtmdi2oddjnzqzzta3xkeyxkfqcgdeqxvymjmxote0oda-_v1_.jpg?q=50&fit=crop&h=720&dpr=1.5",
-            "title": "Megan",
-            "rating": "6.4/10"
-        },
-        {
-            "image": "https://m.media-amazon.com/images/M/MV5BNzQ1ODUzYjktMzRiMS00ODNiLWI4NzQtOTRiN2VlNTNmODFjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg",
-            "title": "Spiderman : Across the Spiderverse",
-            "rating": "9.4/10"
-        }
-    ]
+  "mydata": [
+    {
+      "id": 1685624648353,
+      "name": "RRR",
+      "mobile": "7847965001",
+      "email": "biku@gmail.com",
+      "password": "2222"
+    },
+    {
+      "id": 1685627787168,
+      "name": "Biku",
+      "mobile": "7847965001",
+      "email": "mrbiku4444@gmail.com",
+      "password": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    },
+    {
+      "id": 1685630179200,
+      "name": "Biku",
+      "mobile": "7847965001",
+      "email": "biku@gmail.com",
+      "password": "444444444444444444444"
+    }
+  ]
 }

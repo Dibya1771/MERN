@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body{
+    background: linear-gradient(to top ,#030802,#011806,#002408);
+    /* background-color:#04060D; */
+
+    /* height: 100vh;   if we not give any thing here then when we scroll the nav willl hidden after 100vh (super ....) But if we give this then when we print it shows the colour upto 100vh*/
+    background-attachment: fixed;
+}
+
+.navbar{
+    display: flex;
+    /* justify-content: space-between;  */
+    background-color: #123601c3;
+    /* box-shadow: 5px 5px 10px #1b0101; */
+    position: sticky; 
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    z-index: 1;
+    height: 58px;
+    /* padding: 4.5px; */
+  /* background-color: transparent; */
+
+}
+.nav_text{
+    color: #fff;
+    padding: 20px;
+    padding-left: 0.3rem;
+    font-size: 18px;
+    cursor: pointer;
+    font-weight: 400;
+}
+.nav_text:hover{
+    font-size: 20px;
+    font-weight: 400;
+    color: #6ae12a;
+    text-shadow: 0px 0px 1px #ff8484;
+    transition: 0.25s;
+}
+#Logo{
+    margin-top: 0.8rem;
+    margin-left: 1rem;
+}
+#logo_Text{
+    margin-top: 0.8rem;
+    margin-left: 0.4rem;
+    color: #6ae12a; 
+     font-size: 30px; 
+     font-weight: 600;
+}
+.right{
+    margin-left: 92rem;
+    position: fixed;
+    margin-top: 1.2rem;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+
+#food{
+    align-items: center;
+    justify-content: center;
+    padding-left: 90px;
+    padding-right: 70px;
+    padding-top: 10px;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 20px;
+}
+
+#food img{
+    width: 290px;
+    height: 320px;
+    object-fit: cover;
+    border-radius: 1rem;
+    box-shadow: 1px 1px 4px #807d7d;
+}
+#food h3{
+    margin-top: 10px;
+    font-size: 25px;
+    font-weight: 700;
+    color: #fff;
+}
+#food p{
+    margin-right: 45px;
+    margin-top: 8px;
+    font-size: 15px;
+    font-weight: 500;
+    color: #aeaeae;
+    text-align:justify;
+    background: #002408;
+    padding: 5px;
+    margin-left: 15px;
+    box-shadow:inset 2px 2px 5px #1b4918;
+    border-radius: 1rem;
+ }
+ .view_button, .remove_button{
+    margin-top: 10px;
+    margin-bottom: 40px;
+    width: 40%;
+    border-radius: 1rem;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+ }
+ .view_button{
+    box-shadow:inset 2px 2px 5px #1b4918;
+    font-weight: 600;
+    margin-right: 11%;
+    background-color: #13db09;
+    color: #000000;
+ }
+ button:hover{
+    background-color: #5858f0;
+    color: #000000;
+    transition: 0.4s;
+ }
+ .remove_button{
+    /* margin-left: 20%; */
+    font-weight: 400;
+    background-color: #fb1c27;
+    box-shadow: inset 4px 2px 5px #4e1a1a;
+    color: #ffe9e9;
+ }
+
+
+  .nav-bg {
+      margin-top: 21.52vh;
+      background: #0c2700a3;
+      background-size: cover;
+      position: sticky;
+      bottom: 0;
+      /* background-blend-mode: darken; */
+    }
+
+    .text-footer {
+      text-align: center;
+      padding: 15px 0;
+      display: flex;
+      justify-content: center;
+      color: white;
+    }
