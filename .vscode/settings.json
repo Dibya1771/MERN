@@ -1,0 +1,8 @@
+{
+  "indentRainbow.colorOnWhiteSpaceOnly": false,
+  "editor.fontSize": 14,
+  "editor.codeActionsOnSave": {},
+  "editor.columnSelection": false,
+  "indentRainbow.lightIndicatorStyleLineWidth": 1,
+  "indentRainbow.indicatorStyle": "classic"
+}

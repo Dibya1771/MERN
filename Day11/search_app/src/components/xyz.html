@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Navbar Example</title>
+    <style>
+        /* CSS for the navbar */
+        .navbar {
+            background-color: #f1f1f1;
+            padding: 10px;
+        }
+
+        .search-input {
+            width: 200px;
+            padding: 5px;
+            margin-right: 10px;
+        }
+
+        .post-button {
+            padding: 5px 10px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+        }
+
+        .post-form {
+            display: none;
+            margin-top: 10px;
+        }
+
+        /* CSS for the body */
+        .body-content {
+            margin-top: 20px;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+
+        /* CSS for the pagination */
+        .pagination {
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        .pagination-button {
+            padding: 5px 10px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            margin: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar">
+        <input type="text" class="search-input" placeholder="Search">
+        <button class="post-button" onclick="toggleForm()">Post</button>
+        <form class="post-form">
+            <input type="text" placeholder="Title">
+            <textarea placeholder="Content"></textarea>
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+
+    <div class="body-content">
+        <!-- Data from API will be rendered here -->
+    </div>
+
+    <div class="pagination">
+        <!-- Pagination buttons will be rendered here -->
+    </div>
+
+    <script>
+        // Function to toggle the visibility of the post form
+        function toggleForm() {
+            var form = document.querySelector('.post-form');
+            form.style.display = form.style.display === 'none' ? 'block' : 'none';
+        }
+
+        // Function to handle the form submission
+        function handleSubmit(event) {
+            event.preventDefault();
+            // Perform the POST request here
+            console.log('Form submitted!');
+        }
+
+        // Add event listener to the form submit event
+        var form = document.querySelector('.post-form');
+        form.addEventListener('submit', handleSubmit);
+    </script>
+</body>
+</html>

@@ -1,0 +1,89 @@
+.card-container{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
+
+.card {
+    margin: 0 auto;
+    align-items: center;
+    box-shadow:inset  rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border: 1px solid rgba(0, 0, 0, 0.362);
+    margin-bottom: 20px;
+    background-color: whitesmoke;
+    padding: 20px;
+    
+}
+
+img {
+    box-shadow: rgba(0, 0, 0, 0.35) 2px 2px 15px;
+    /* padding-top: 10px; */
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin: 0 auto;
+}
+#upd{
+    padding: 6px;
+    width: 60px;
+    margin-right: 4px;
+    /* margin: 0 auto; */
+    margin-bottom: 10px;
+    border-radius: 4px;
+    background: #75f57a;
+    border: 1px solid rgba(0, 0, 0, 0.234);
+    color: #000;
+    box-shadow: inset 1px 1px 2px #21212170;
+}
+#del {
+    padding: 6px;
+    width: 60px;
+    margin-left: 4px;
+    /* margin: 0 auto; */
+    margin-bottom: 10px;
+    border-radius: 4px;
+    background: #f36161;
+    border: 1px solid rgba(0, 0, 0, 0.234);
+    box-shadow: inset 1px 1px 2px #21212170;
+}
+
+.card-container p {
+    width: 100%;
+    font-size: 20px;
+  /* margin-left: 475px; */
+  color: rgb(26, 26, 26);
+}
+
+.text-name p{
+    font-size: 14px;
+    font-weight: 600;
+    color: #333;
+}
+.pagination{
+    background-color: #333;
+    padding: 7px;
+    
+   position: fixed;
+   width: 100%;
+   bottom: 0;
+}
+
+#pagination_button{
+    margin-bottom: -1px;
+    border: none;
+    font-size: 10px;
+    box-shadow: inset 1px 1px 2px #21212170;
+    background: #4caf50;
+    padding: 8px 8px;
+    width: 50px;
+color: #fff;
+cursor: pointer;
+border-radius: 4px;
+}
+#pagination_button:hover{
+    background: #8dda8f;
+    transition: 0.4s;
+    cursor: pointer;
+
+}

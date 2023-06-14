@@ -1,0 +1,20 @@
+
+.App-nav{
+    flex-direction: row;
+    margin-top: -20px;
+    position: fixed;
+    width: 100%;
+}
+.text-nav{
+    background-color: #0c084162;
+    display: flex;
+    color: rgb(255, 0, 0);
+    
+}
+h1{
+    padding: 10px;
+    font-size: 25px;
+}
+.home{
+    color: #00ff15;
+}

@@ -38,11 +38,42 @@ In day-3 after step-7 make index1.js (writing code)=> inside that in fetch paste
 then write code... after that open new terminalm inside (Day 4) and save js file (that is index1.js) => It calls data from data.json
 
 
+-----------------------------------------------------------------------------------
+Day-6 (5 June 2023) => project, upload folder to Netlify
+------------------------------------------------------------------------------------
+Day-7  (React)
+1) install react (make a foldder go to terminal of that folder)=> then write and run 
+                        =>npm init -y  (We can avoid it=== best to avoid )
 
+                        =>npx create-react-app@latest myapp   (myapp is a name of your react app) (Name should not contain capital letter, but we can write number,unserscore)
+2)  in react we write  className="App"  insted of class="App"
+3) in terminal run => 1st go inside your react app (Here i have D:\MERN\Day 7\myapp) then type npm start (To start the react app)
 
+------------------------------------------------------------------------------------
+Day-8
+=> linking json in react
+=> API
 
+------------------------------------------------------------------------------------
+Day-9
+update, delete
 
+OMDb api key => generate
+then after url comes cut last api key then put your own key
 
+---------------------------------------------------------------------------
+Day-10 -- search
+----------------------------------------------------------------------------
+Day-11 -- making component in different file and calling in App.js
+----------------------------------------------------------------------------
+Day-12  
+install package in terminal 1st- npm 
+
+npm i react-router-dom   (Do it )
+ (After that go to package.json then you can see the version is changed)
+like-    "react-dom": "^18.2.0"
+
+---------------------------------------------------------------------------
 
 
 
@@ -52,6 +83,7 @@ then write code... after that open new terminalm inside (Day 4) and save js file
 
 
 //------------------------------------  Github  -----------------------------------------
+Download git bash...
 1)  PS D:\MERN> git config --global user.name "Dibya Ranjan Rath" 
 2)  PS D:\MERN> git config --global user.email "dibyaranjanrath02@gmail.com" 
 
@@ -81,3 +113,4 @@ then write code... after that open new terminalm inside (Day 4) and save js file
   now goto terminal and repeate step- 4, 5,7 and 13
   
 --------------------------------------------------------------------------------------------------------------------------------------------------
+

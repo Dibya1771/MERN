@@ -1,0 +1,115 @@
+.search-container{
+  background-color: #333;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 10px;
+    height: 2.5rem;
+   position: fixed;
+   width: 100%;
+   top: 0;
+}
+
+.search-input {
+  position: fixed;
+    padding: 8px;
+    margin-left: 74rem;
+   /* margin-top: -90%; */
+    border: none;
+    width: 200px;
+    /* border-radius: 10px; */
+    background: none;
+    color: #f4f4f4;
+    border-bottom: 1px solid #89ff74;
+}
+.search-input:hover,.search-input:focus{
+  outline: none;
+  border: none;
+  border-bottom: 1px solid #89ff74;
+  
+}
+
+.search-input::placeholder{
+  transition: 0.4s;
+  color: #dcdcdc;
+}
+
+
+h1{
+  
+  font-weight: 400;
+  color: #fff;
+  padding: 8px;
+  font-size: 16px;
+  cursor: pointer;
+}
+h1:hover{
+  transition: 0.4s;
+  color: #89ff74;
+}
+  .post-button {
+    position: fixed;
+    margin-left: 72.1rem;
+   margin-top: -0.4rem;
+    padding: 8px 16px;
+    border: none;
+    background-color: #4caf50;
+    color: white;
+    cursor: pointer;
+    box-shadow: inset 1px 1px 2px #21212170;
+  }
+  
+  .form-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.573);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .form-container {
+    background-color: #fff;
+    padding: 20px;
+    
+    box-shadow: 3px 4px 8px rgba(0, 0, 0, 0.807);
+    position: relative;
+    border-radius: 10px;
+    width: 20%;
+    height: 40%;
+
+  }
+  
+  .close-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 20px;
+    cursor: pointer;
+  }
+  
+  .form-input {
+    width: 70%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 7px;
+  }
+  
+  .submit-button {
+    padding: 8px 16px;
+    border: none;
+    background-color: #4caf50;
+    color: white;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  
+  .data-content {
+    margin-top: 20px;
+    /* Add any additional styles for the data/content section */
+  }
+  

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+.book {
+  position: relative;
+  width: 200px;
+  height: 260px;
+  perspective: 800px;
+  perspective-origin: center center;
+}
+
+.book .book-cover {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  /* transform-style: preserve-3d;
+  transform: rotateY(-20deg); */
+}
+
+.book .book-cover img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.book .book-title {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 10px;
+  background-color: #fff;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  text-align: center;
+}
+
+.book .book-title h1 {
+  margin: 0;
+}
+
+.book:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -5px;
+  width: 5px;
+  height: 100%;
+  background-color: #000;
+  box-shadow: 2px 0 2px rgba(0, 0, 0, 0.3);
+}
+
+.book:after {
+  content: "";
+  position: absolute;
+  bottom: -5px;
+  left: 0;
+  width: 100%;
+  height: 5px;
+  background-color: #000;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+
+    </style>
+</head>
+<body>
+    <div class="book">
+        <div class="book-cover">
+          <img src="https://example.com/book-cover.jpg" alt="Book Cover">
+        </div>
+        <div class="book-title">
+          <h1>Book Title</h1>
+        </div>
+      </div>
+      
+      
+</body>
+</html>

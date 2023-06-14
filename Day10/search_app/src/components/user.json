@@ -1,0 +1,260 @@
+{
+  "user": [
+    {
+      "name": "Nani",
+      "email": "naturalstar@gmail.com",
+      "mobile": "2456650601",
+      "gender": "Male",
+      "url": "https://st1.bollywoodlife.com/wp-content/uploads/2021/06/Nani_Something_Special_Shooting_Frontline_Workers_COVID19.jpg?impolicy=Medium_Widthonly&w=1280&h=900",
+      "id": 1
+    },
+    {
+      "name": "Shraddha Kapoor",
+      "email": "shraddha12@hotmail.com",
+      "mobile": "8909006790",
+      "gender": "Female",
+      "url": "https://static.toiimg.com/photo/msid-71503055/71503055.jpg?689801",
+      "id": 2
+    },
+    {
+      "name": "Ranbir Kapoor",
+      "email": "vikuxyz@www.in",
+      "mobile": "9090909000",
+      "gender": "Male",
+      "url": "https://s3images.zee5.com/wp-content/uploads/2022/11/ANI-20221109131659.jpg",
+      "id": 3
+    },
+    {
+      "name": "Purple",
+      "email": "crush@silicon.com",
+      "mobile": "1234567890",
+      "gender": "Female",
+      "url": "https://yt3.googleusercontent.com/J8lNDq33DCxrccKNOBMoNkcTIgUOeuEFIyIwS83cnq85fOAcMHZMp8lVVxM7PV-kqhgryXnn=s900-c-k-c0x00ffffff-no-rj",
+      "id": 4
+    },
+    {
+      "name": "Disha patani",
+      "email": "disha02@abc.hotmail.com",
+      "mobile": "0000000000",
+      "gender": "Female",
+      "url": "https://static.abplive.com/wp-content/uploads/2020/10/31024927/Disha-Patani.jpg?impolicy=abp_cdn&imwidth=650",
+      "id": 5
+    },
+    {
+      "name": "SS Rajamouli",
+      "email": "ssrajamouli.com",
+      "mobile": "0909090900",
+      "gender": "Male",
+      "url": "https://filmfare.wwmindia.com/content/2023/may/ssrajamouli41683701033.jpg",
+      "id": 6
+    },
+    {
+      "name": "Arjun Kapoor",
+      "email": "arjun@gmail.com",
+      "mobile": "8088900034",
+      "gender": "Male",
+      "url": "https://newsreach-publishers.s3.ap-south-1.amazonaws.com/thenewindiatimestnit.com/2020/09/bc23cc71e587720a85070ec853fe91ba.jpg",
+      "id": 7
+    },
+    {
+      "name": "Hande Erçel",
+      "email": "hayat@gmail.com",
+      "mobile": "6789000098",
+      "gender": "Female",
+      "url": "https://wikibio.in/wp-content/uploads/2022/08/Hande-Erc%CC%A7el.jpg",
+      "id": 8
+    },
+    {
+      "name": "Alu Arjun",
+      "email": "alu@gmail.com",
+      "mobile": "5001378909",
+      "gender": "Male",
+      "url": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/01/24/10adc3ac2efebbf8daf82dd957afd3ae1674544726481431_original.jpg?impolicy=abp_cdn&imwidth=650",
+      "id": 9
+    },
+    {
+      "name": "Shirley Setia",
+      "email": "shirley@gmail.com",
+      "mobile": "9847950201",
+      "gender": "Female",
+      "url": "https://scontent-ccu1-1.xx.fbcdn.net/v/t1.6435-9/116342150_3403101396378950_3553596945566007389_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=FBhIT4X0HTMAX8KiDOl&_nc_ht=scontent-ccu1-1.xx&oh=00_AfDcWAvEFcr0SB15C2rb0JcAdjznUcK1iQZJGB9fzGJsKw&oe=64AE1680",
+      "id": 10
+    },
+    {
+      "name": "Avneet Kaur",
+      "email": "avi@insta.in",
+      "mobile": "1010101010",
+      "gender": "Female",
+      "url": "https://img.indiaforums.com/article/900x900/16/3611-avneet-kaur-on-her-singing-experience-it-kind-of-gave-me-goosebumps.jpg",
+      "id": 11
+    },
+    {
+      "name": "Jannat Zubair",
+      "email": "janat@hotmail.com",
+      "mobile": "7878787878",
+      "gender": "Female",
+      "url": "https://starbiowiki.com/wp-content/uploads/2020/11/word-image-28-e1626795170348.jpeg",
+      "id": 12
+    },
+    {
+      "name": "Sidharth Malhotra",
+      "email": "sidharth02@gmail.com",
+      "mobile": "9099999980",
+      "gender": "Male",
+      "url": "https://www.filmibeat.com/wimg/mobi/2018/01/sidharth-malhotra_1516772407170.jpg",
+      "id": 13
+    },
+    {
+      "name": "Riteish Deshmukh ",
+      "email": "ritesh00001@hotmail.com",
+      "mobile": "2090909900",
+      "gender": "Male",
+      "url": "https://wallpapercave.com/wp/wp6390702.jpg",
+      "id": 14
+    },
+    {
+      "name": "Tara Sutaria",
+      "email": "deepika12@gmail.com",
+      "mobile": "7900909001",
+      "gender": "Female",
+      "url": "https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2019/05/27/Pictures/_981be86e-8070-11e9-9324-f283958e02d5.jpg",
+      "id": 15
+    },
+    {
+      "name": "Krithi Shetty",
+      "email": "krithy123@gmail.com",
+      "mobile": "7900909001",
+      "gender": "Female",
+      "url": "https://e0.pxfuel.com/wallpapers/651/1009/desktop-wallpaper-krithi-shetty-age-wiki-and-biography-kirti-shetty.jpg",
+      "id": 16
+    },
+    {
+      "name": "Ram Pothineni",
+      "email": "ram12@gmail.com",
+      "mobile": "4578900012",
+      "gender": "Male",
+      "url": "https://www.breezemasti.com/wp-content/uploads/Ram-Pothineni-age-family-wife-movies-wiki-biography.jpg",
+      "id": 17
+    },
+    {
+      "name": "Malvika Sharma ",
+      "email": "maal01@vika.com",
+      "mobile": "5656443211",
+      "gender": "Female",
+      "url": "https://starsunfolded.com/wp-content/uploads/2018/05/Malvika-Sharma.jpg",
+      "id": 18
+    },
+    {
+      "name": "Karthik Aaryan",
+      "email": "karthik@gmail.com",
+      "mobile": "6790009090",
+      "gender": "Male",
+      "url": "https://i.pinimg.com/750x/09/aa/8b/09aa8bbb1c600a5b944b1abc8ca3e72f.jpg",
+      "id": 19
+    },
+    {
+      "name": "Shahid Kapoor",
+      "email": "shahid02@gmail.com",
+      "mobile": "1234123411",
+      "gender": "Male",
+      "url": "https://behindtalkies.com/wp-content/uploads/2017/12/6-72.jpg",
+      "id": 20
+    },
+    {
+      "name": "Suriya",
+      "email": "surya3456@gmail.com",
+      "mobile": "9077569099",
+      "gender": "Male",
+      "url": "https://wallpapercave.com/wp/wp2551325.jpg",
+      "id": 21
+    },
+    {
+      "name": "Ram Charan",
+      "email": "ram1289@gmail.com",
+      "mobile": "9077890561",
+      "gender": "Male",
+      "url": "https://www.telugubulletin.com/wp-content/uploads/2022/03/Ramcharan-696x522.jpg",
+      "id": 22
+    },
+    {
+      "name": "Dhanush",
+      "email": "dhanush011@gmail.com",
+      "mobile": "7856789098",
+      "gender": "Male",
+      "url": "https://static.toiimg.com/thumb/msid-67180528,imgsize-71766,width-400,resizemode-4/67180528.jpg",
+      "id": 23
+    },
+    {
+      "name": "Radhika Madan",
+      "email": "radhika@gmail.com",
+      "mobile": "7856789098",
+      "gender": "Female",
+      "url": "https://www.koimoi.com/wp-content/new-galleries/2021/07/radhika-madan-recalls-disgusting-suggestions-given-to-her-001.jpg",
+      "id": 24
+    },
+    {
+      "name": "Adah Sharma",
+      "email": "adasharma34@gmail.com",
+      "mobile": "8909003451",
+      "gender": "Female",
+      "url": "https://www.breezemasti.com/wp-content/uploads/Adah-Sharma-glamour-photography-1-e1640806030712.jpg",
+      "id": 25
+    },
+    {
+      "name": "Ketika Sharma",
+      "email": "ketika23@gmail.com",
+      "mobile": "9067500123",
+      "gender": "Female",
+      "url": "https://www.mirchi9.com/wp-content/uploads/2019/05/Allu-Arjuns-New-Girl-Gets-Insta-on-Fire-Ketika-Sharma.jpg",
+      "id": 26
+    },
+    {
+      "name": "Dulkar Salman",
+      "email": "dulkar22@gmail.com",
+      "mobile": "1245678909",
+      "gender": "Male",
+      "url": "https://filmfare.wwmindia.com/content/2021/may/dulquersalman41622099128.jpg",
+      "id": 27
+    },
+    {
+      "name": "Jacqueline Fernandez",
+      "email": "jacqueline@gmail.com",
+      "mobile": "5434567865",
+      "gender": "Female",
+      "url": "https://static.spotboye.com/uploads/jacky_2022-9-20-7-15-27_thumbnail_2022-9-26-11-53-6_thumbnail_2022-10-22-6-48-56_thumbnail_2022-11-10-7-47-59_thumbnail.jpg",
+      "id": 28
+    },
+    {
+      "name": "Kiara Advani",
+      "email": "kiara88@gmail.com",
+      "mobile": "780094567321",
+      "gender": "Feamle",
+      "url": "https://pbs.twimg.com/profile_images/1203978070069149697/VxVYTCiz_400x400.jpg",
+      "id": 29
+    },
+    {
+      "name": "Sunny Kaushal",
+      "email": "sunny@meonnny.com",
+      "mobile": "4533217891",
+      "gender": "Male",
+      "url": "https://cdn.bollywoodmdb.com/fit-in/movies/largethumb/2020/shiddat/shiddat-17.jpg",
+      "id": 30
+    },
+    {
+      "name": "Rashmika Mandanna",
+      "email": "rashmika11@gmail.com",
+      "mobile": "8688670091",
+      "gender": "Female",
+      "url": "https://ik.imagekit.io/shortpedia/Voices/wp-content/uploads/2021/03/Rashmika-Mandanna4.jpg",
+      "id": 31
+    },
+    {
+      "name": "Vijay Devarakonda",
+      "email": "vijay456@gmail.com",
+      "mobile": "89678900342",
+      "gender": "Male",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Vijay_Deverakonda_at_NOTA_pressmeet_%28cropped%29.jpg",
+      "id": 32
+    }
+  ]
+}

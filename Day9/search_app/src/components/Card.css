@@ -1,0 +1,50 @@
+.card-container{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+}
+
+.card {
+    margin: 0 auto;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    /* width: 40%; */
+   
+   
+    border: 1px solid rgb(255, 193, 193);
+    margin-bottom: 20px;
+    background-color: whitesmoke;
+    /* width: 400px; */
+    padding: 20px;
+}
+
+img {
+    padding-top: 10px;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin: 0 auto;
+}
+
+button {
+    padding: 6px;
+    width: 100px;
+   /*  height: 20px; */
+    margin: 0 auto;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    background: #ff8f8f;
+}
+
+.card-container p {
+    width: 100%;
+    font-size: 20px;
+  margin-left: 475px;
+  color: red;
+}
+
+.Search{
+    background: none;
+    border: none;
+    font-size: 20px;
+    margin-left: -20px;
+}
