@@ -13,6 +13,8 @@ function findUser() {
       );
       console.log(user);
       if (user) {
+
+        
         alert("Logged in Successfully");
         window.location.href = "./application_form.html";
       } else {
