@@ -1,2 +1,2 @@
-# Movie Star Search site: using React.js
+# StarSearch Hub: using React.js and Node.js
 
