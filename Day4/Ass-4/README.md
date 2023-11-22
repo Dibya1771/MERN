@@ -1,5 +1,5 @@
 # Food Hub
-A user-friendly web application crafted with HTML, CSS, and JavaScript, offering a seamless culinary experience. Users can easily register and log in to the platform, where they have the capability to upload enticing images and recipes of their favorite dishes. The platform's interactive interface allows users to view and hide their recipes.
+###### A user-friendly web application crafted with HTML, CSS, and JavaScript, offering a seamless culinary experience. Users can easily register and log in to the platform, where they have the capability to upload enticing images and recipes of their favorite dishes. The platform's interactive interface allows users to view and hide their recipes.
 
 ## Sample Output:  
 #### Sample Output-1 (Signup page))  
