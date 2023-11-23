@@ -2,6 +2,13 @@
 ###### A user-friendly web application crafted with HTML, CSS, and JavaScript, offering a seamless culinary experience. Users can easily register and log in to the platform, where they have the capability to upload enticing images and recipes of their favorite dishes. The platform's interactive interface allows users to view and hide their recipes.
 
 ## Sample Output:  
+### Tutorial Video:
+
+
+https://github.com/Dibya1771/MERN/assets/108383867/3ba65f54-1d7a-4cac-9a48-e0314e10e5a9
+
+
+### Screenshots:
 #### Sample Output-1 (Signup page))  
 ![image](https://github.com/Dibya1771/MERN/assets/108383867/12e3efb3-aa4f-4f3e-96dd-3fcee5810f8c)
 
